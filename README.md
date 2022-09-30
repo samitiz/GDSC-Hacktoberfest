@@ -5,7 +5,7 @@ accordingly to contribute to Hacktoberfest to earn swags and learn
 something about the open source contribution.
 
 Website link on which you will contribute
-https://dsc-bvp.github.io/Hacktoberfest/
+https://samitiz.github.io/GDSC-Hacktoberfest
 
 ## Step 1
 
